@@ -1,0 +1,13 @@
+
+
+Time elapsed: 0.0050 seconds
+
+Statistics:
+
+Mean: 1.8790659927977443e+20
+Median: 1.88008049965543e+20
+Mode: 1.27620004531949e+20
+Variance: 1.1530904699530652e+40
+Standard Deviation: 1.0738205017381002e+20
+
+    
