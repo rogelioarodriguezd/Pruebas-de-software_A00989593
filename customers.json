@@ -1,0 +1,8 @@
+{
+    "1": {
+        "customer_id": "1",
+        "name": "Test Customer",
+        "email": "test@example.com",
+        "phone": "123-456-7890"
+    }
+}

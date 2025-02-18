@@ -1,0 +1,10 @@
+{
+    "1": {
+        "reservation_id": "1",
+        "customer_id": "1",
+        "hotel_id": "1",
+        "room_number": "101",
+        "check_in_date": "2024-01-01",
+        "check_out_date": "2024-01-05"
+    }
+}

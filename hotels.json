@@ -1,0 +1,11 @@
+{
+    "1": {
+        "hotel_id": "1",
+        "name": "Test Hotel",
+        "address": "Test Address",
+        "rooms": {
+            "101": 100,
+            "102": 150
+        }
+    }
+}
